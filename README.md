@@ -1,4 +1,4 @@
 # Apollo-Angular
 <br>
-フロントエンド：Apollo-Angular
+フロントエンド：Apollo-Angular<br>
 バックエンド：TypeGraphQL
