@@ -1,4 +1,7 @@
 # Apollo-Angular
 <br>
 フロントエンド：Apollo-Angular<br>
-バックエンド：TypeGraphQL
+バックエンド：Type-GraphQL<br>
+
+<br>
+## バージョン情報
